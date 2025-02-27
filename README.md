@@ -134,9 +134,9 @@ for filename in data:
 Below are some analysis questions we aim to answer using the processed data:
 1. **Most Negative Category:** Identify the category with the most negative sentiment.
 2. **Consistently Negative Channels:** Determine if there are channels with consistently negative sentiment.
-3. **Topic Duration:** Explore whether certain topics take longer to discuss.
-4. **Semantic Similarity Among Podcasts:** Investigate if similar podcasts share common semantics.
-5. **Identifying Channels by Speech Style:** Analyze if a podcast channel can be identified by its style of speaking.
-6. **Most Common Words per Sentiment:** Find the most frequently used words based on sentiment classification.
+3. **Semantic Similarity Among Podcasts:** Investigate if similar podcasts share common catagories.
+4. **Identifying Channels by Speech Style:** Analyze if a podcast channel can be identified by its style of speaking.
+5. **Most Common Words per Sentiment:** Find the most frequently used words based on sentiment classification.
+6. **Most common words based on the catagory** Find the most frequntly used words based on the catagory of the podcasts
 
 
